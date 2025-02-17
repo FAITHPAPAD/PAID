@@ -3,8 +3,8 @@ import asyncio
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext
 
-TELEGRAM_BOT_TOKEN = '7544620080:AAEJicPM7TCWZw4FIpSuYTfTR2kjA09oLLA'  # Replace with your bot token
-OWNER_USERNAME = "PATHAN_STORE_X"  # Replace with your Telegram username (without @)
+TELEGRAM_BOT_TOKEN = '7533748861:AAF_m0GOXfuchvHNO002gahj4f_TWQjhxbM'  # Replace with your bot token
+OWNER_USERNAME = "FAKEYT700"  # Replace with your Telegram username (without @)
 
 # Store user data as {user_id: {"username": username, "coins": coins}}
 user_data = {}  
