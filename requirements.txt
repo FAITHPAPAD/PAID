@@ -1,4 +1,6 @@
 telebot 
 flask
 aiogram
-pymongo aiohttp pustil
+pymongo
+aiohttp
+pustil
