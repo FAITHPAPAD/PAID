@@ -39,7 +39,7 @@ async def start(update: Update, context: CallbackContext):
     reply_markup = ReplyKeyboardMarkup(keyboard, resize_keyboard=True)
 
     message = (
-        "*🔥 Welcome to the PATHAN BOT 🔥*\n\n"
+        "*🔥 Welcome to the FAITH BOT 🔥*\n\n"
         "*Use /attack <ip> <port> <duration> <threads>*\n\n"
         "*⚔️ (Costs 5 coins per attack) ⚔️*\n\n"
         "*Owners & Admins can add coins for users*\n\n"
